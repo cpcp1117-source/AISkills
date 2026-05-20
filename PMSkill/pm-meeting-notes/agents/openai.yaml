@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Meeting Notes"
+  short_description: "Create PM meeting notes with decisions and actions."
+  default_prompt: "Use $pm-meeting-notes to analyze this meeting record and produce structured PM meeting notes."
