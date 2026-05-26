@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Feature Optimization"
+  short_description: "Run product feature optimization from goal to launch review."
+  default_prompt: "Use $product-feature-optimization to optimize an existing product feature from goal definition through launch validation."
