@@ -1,0 +1,4 @@
+interface:
+  display_name: "App / Tool Development Workflow"
+  short_description: "Plan, build, test, deliver, and maintain apps or developer tools."
+  default_prompt: "Use $app-tool-development-workflow to organize this app or tool from planning through implementation, testing, usage, and maintenance."

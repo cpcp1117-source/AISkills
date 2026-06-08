@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Specification"
+  short_description: "Create Traditional Chinese system specification documents."
+  default_prompt: "Use $system-specification to create a Traditional Chinese system specification document for this system."

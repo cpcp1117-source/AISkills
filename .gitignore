@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Generated reports
+*_report_*.txt
+report.txt

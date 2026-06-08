@@ -1,0 +1,4 @@
+interface:
+  display_name: "投資技術分析"
+  short_description: "產出技術分析與交易進出場標準報告。"
+  default_prompt: "Use $investment-technical-analysis to analyze BTC and produce a standard technical trading report."
